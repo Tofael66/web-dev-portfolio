@@ -5,8 +5,9 @@
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /* font-variation-settings:
+    "width" 100px; */
+    font-variation-settings: 100px;
 }
 
 
@@ -85,7 +86,7 @@
 
  }
 
- .banner-descripsion{
+ .banner-description{
     font-size:  18px;
  }
 
