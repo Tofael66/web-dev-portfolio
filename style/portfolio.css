@@ -284,3 +284,33 @@ font-weight: 700;
 .resume-column-title{
    font-size: 30px;
 }
+
+/* footer start */
+
+footer{
+
+   padding: 130px 230px;
+   display: flex;
+   gap: 100px;
+
+}
+
+.footer-column{
+   width: 50%;
+} 
+
+footer input[type="text"], footer input[type="Email"], footer textarea{
+  border-radius: 5px ;
+   height: 64px;
+   background-color: white;
+   display: block;
+   width: 100%;
+   padding: 10px 20px;
+   margin-bottom: 24px;
+   border: none;
+
+}
+
+.section-titles{
+   font-size: 35px;
+}
